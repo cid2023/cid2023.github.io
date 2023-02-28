@@ -1,2 +1,2 @@
-# ceciliacv.gihub.io
+# ceciliacv.github.io
 Proyecto Final
