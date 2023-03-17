@@ -1,0 +1,1 @@
+alert("Gracias por tus datos! Me contactare pronto ;)")
